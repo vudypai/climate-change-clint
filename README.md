@@ -1,7 +1,7 @@
 # climate-change-clint
 
 Note at a later date: 
-Made for a school project. No AI is involved here, Clint just draws his responses from a very large text file.
+Made for a school project. No AI is involved here, Clint just draws his responses from a very large text file (see clint-cli/responses.rkt).
 All art and writing done by me!
 
 Original text:
